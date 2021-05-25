@@ -7,7 +7,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/ep/qualtr
 			//The prime categories.
 			primeCats :  [
 				{
-					name : 'Black people', //Will appear in the data.
+					name : 'Asian people', //Will appear in the data.
 					//An array of all media objects for this category.
 					mediaArray : [
     				    {image : 'AsF1.bmp'}, 
